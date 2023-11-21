@@ -3,8 +3,8 @@
 ### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
+![Screenshot 2023-11-21 155744](https://github.com/NagalapuramHasif/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149365567/09445cc1-3cf2-43a6-91cf-b3d51312f519)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/c784471e-098f-456d-9c1b-e9f0ce56cc9b)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -25,14 +25,15 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+![Screenshot 2023-11-21 155647](https://github.com/NagalapuramHasif/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149365567/24afac3d-f75f-4b7a-9ad7-a770661f86ac)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+![Screenshot 2023-11-21 160259](https://github.com/NagalapuramHasif/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149365567/dafb0d21-9eab-4afe-a103-27a29c766963)
 
 ## Output:
+![Screenshot 2023-11-21 160428](https://github.com/NagalapuramHasif/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149365567/507601e4-08cc-4c0a-acad-03715fe5fd47)
 
-### Name:
-### Register Number:
+### Name:NAGALAPURAM HASIF
+### Register Number:23010367
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
